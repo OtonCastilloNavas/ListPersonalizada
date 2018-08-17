@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ListPersonalizada</string>
+    <array name="arr_imagen">
+        <item>delete</item>
+        <item>add</item>
+        <item>get</item>
+        <item>pause</item>
+    </array>
 </resources>
